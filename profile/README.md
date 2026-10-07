@@ -1,12 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# RuCorp
 
-**Here are some ideas to get you started:**
+**Цифровая инфраструктура для микро- и малого бизнеса**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Практические сервисы для действующего предпринимателя: сначала задача бизнеса, затем инструмент, который её решает.
+
+[Сайт проекта](https://lovii.ru) · [Issue](https://github.com/rucorp/rucorp/issues)
+
+</div>
+
+---
+
+## Что мы делаем
+
+Строим цифровую инфраструктуру, которой владелец кофейни, пекарни или салона пользуется **каждый день** — а не один раз при подключении. Сервисы с минимальной наценкой, простым подключением со смартфона и функциями, которые нужны в реальной работе, а не в презентации.
+
+Ориентир — [Цифровая платформа МСП.РФ](https://corpmsp.ru/to-business/msp-rf/).
+
+## Проект
+
+### [Lovii](https://lovii.ru)
+
+SaaS-платформа для локального бизнеса и его клиентов. Торговая точка получает собственную цифровую витрину и программу лояльности, жители района — единый способ копить баллы и получать кэшбэк у местных предприятий.
+
+- **Подключение бесплатное**, оплата — с чека, без затрат на старте.
+- **Нагрузка на торговую точку — не более 10%** от суммы заказа, включая эквайринг.
+- Платформа не перепродаёт товары и не хранит деньги клиентов: расчёты идут через банка-партнёра.
+
+Подробности и документы — в [lovii-docs](https://github.com/lovii-ru/lovii-docs).
+
+## Принципы
+
+- **Практическая польза.** Каждый проект должен помогать в реальной работе предприятия.
+- **Доступная экономика.** Минимальные наценки, никаких обязательных платежей за вход.
+- **Функции по делу.** Полезность важнее сложности.
+- **Ясная ответственность.** У каждого результата есть ответственный.
+
+## Как помочь
+
+Предложить задачу, идею или задать вопрос — в [Issues](https://github.com/rucorp/rucorp/issues).
+Исправить документацию или правила — через [Pull Request](https://github.com/rucorp/rucorp/pulls).
+
+Подробное описание миссии, модели работы и тарифов — в [README репозитория](https://github.com/rucorp/rucorp#readme).
+
+---
+
+Материалы распространяются на условиях [Unlicense](LICENSE).
